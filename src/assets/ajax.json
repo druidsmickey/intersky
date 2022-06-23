@@ -1,0 +1,26 @@
+[
+	{
+		"Panel":"Hub",
+		"Description":"Control Panel (Ethernet and 2G available)",
+		"Price":10000,
+		"Qty":0
+	},
+	{
+		"Panel":"Hub Plus",
+		"Description":"Advanced Control Panel (Ethernet, Wifi and 2G/3G available)",
+		"Price":10000,
+		"Qty":0
+	},
+	{
+		"Panel":"Hub 2",
+		"Description":"Control Panel with alarm photo verification support (Ethernet and 2G available)",
+		"Price":10000,
+		"Qty":0
+	},
+	{
+		"Panel":"Hub 2 Plus",
+		"Description":"Control Panel with alarm photo verification support (Ethernet, Wifi and 2G/3G/4G available)",
+		"Price":10000,
+		"Qty":0
+	}
+]
